@@ -43,11 +43,11 @@ body a {
 	background: linear-gradient(to right, #cc5333, #23074d);
 	padding: 2em 1em 1.8em;
 	border-top-left-radius: 3px;
-	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-left-radius: 30px;
 	-moz-border-top-left-radius: 3px;
 	-o-border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
-	-webkit-border-top-right-radius: 3px;
+	-webkit-border-top-right-radius: 30px;
 	-moz-border-top-right-radius: 3px;
 	-o-border-top-right-radius: 3px;
 }
@@ -680,7 +680,13 @@ i.icon3 {
 	background: #23074d;
 	background: -webkit-linear-gradient(to right, #cc5333, #23074d);
 	background: linear-gradient(to right, #cc5333, #23074d);
+	-webkit-border-bottom-left-radius: 30px;
+	-moz-border-bottom-left-radius: 3px;
+	-o-border-bottom-left-radius: 3px;
 
+	-webkit-border-bottom-right-radius: 30px;
+	-moz-border-bottom-right-radius: 3px;
+	-o-border-bottom-right-radius: 3px;
 
 	padding: 2em;
 }
